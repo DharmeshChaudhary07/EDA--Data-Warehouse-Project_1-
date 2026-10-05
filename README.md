@@ -25,14 +25,6 @@ SQL-based exploratory data analysis (EDA) on the gold layer of the [Data Warehou
 | `magnitude_analysis.sql` | Compares measures across dimensions (e.g. revenue by category, customers by country) |
 | `ranking_analysis.sql` | Ranks top and bottom products and customers by revenue |
 
-## Key Findings
-
-*(Add 3 to 5 real findings from your results, for example:)*
-
-- Total sales of **[X]** across **[X]** orders and **[X]** customers between **[date]** and **[date]**
-- **[Category]** generates **[X]%** of total revenue
-- Top 5 products account for **[X]%** of sales
-
 ## Skills Demonstrated
 
 SQL aggregations · `GROUP BY` · joins · date functions · window functions for ranking (`RANK`, `ROW_NUMBER`, `DENSE_RANK`) · data profiling
